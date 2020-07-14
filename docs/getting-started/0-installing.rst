@@ -11,7 +11,7 @@ You can install wttrpy package like that:
 
 Now you can test it out:
 
-.. code-block::
+.. code-block:: py
 
     $ python
     >>> import wttrpy
@@ -20,10 +20,8 @@ Now you can test it out:
 
 You should have seen something like this:
 
-.. code-block::
-
     Weather report: Amsterdam
-    
+
         \  /       Partly cloudy
       _ /"".-.     17 °C
         \_(   ).   ↘ 17 km/h
@@ -60,5 +58,5 @@ You should have seen something like this:
     │    ‘ ‘ ‘ ‘    0.4 mm | 64%   │     ‘ ‘ ‘ ‘   0.8 mm | 73%   │     ‘ ‘ ‘ ‘   0.1 mm | 71%   │     ‘ ‘ ‘ ‘   0.0 mm | 22%   │
     └──────────────────────────────┴──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
     Location: Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland [52.3745403,4.89797550561798]
-    
+
     Follow @igor_chubin for wttr.in updates
