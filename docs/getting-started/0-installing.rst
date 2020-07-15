@@ -18,7 +18,7 @@ Now you can test it out:
     >>> wttr = wttrpy.getWttr("Amsterdam", "en")
     >>> print(wttr)
 
-You should have seen something like this:
+The output should be something like this:
 
 .. code-block:: none
 
