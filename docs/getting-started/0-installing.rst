@@ -20,6 +20,8 @@ Now you can test it out:
 
 You should have seen something like this:
 
+.. code-block:: none
+
     Weather report: Amsterdam
 
         \  /       Partly cloudy
