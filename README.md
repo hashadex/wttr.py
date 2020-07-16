@@ -10,4 +10,4 @@ A little thing on Python that shows you forecast using wttr.in
 
 ## TODO
 
-- [ ] Make a CLI
+- [ ] Make a CLI (in beta since 1.1.0-beta.0)

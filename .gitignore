@@ -130,3 +130,5 @@ dmypy.json
 
 # VSCode's stuff
 .vscode/*
+
+cli/*

@@ -20,4 +20,4 @@ Welcome to wttr.py's documentation!
 
 wttr.py is a Python package that shows you forecast using wttr.in.
 
-CLI is coming soon.
+CLI is in beta since 1.1.0-beta.0.
