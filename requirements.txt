@@ -1,1 +1,1 @@
-wttrpy
+wttrpy==1.1.0b0
