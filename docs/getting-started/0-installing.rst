@@ -1,7 +1,7 @@
 0. Getting started with wttr.py
 ===============================
 
-.. warning:: This tutorial assumes that you have installed at least Python 3.6 with pip.
+.. warning:: This tutorial assumes that you have installed at least Python 3.5 with pip.
 
 You can install wttrpy package like that:
 
