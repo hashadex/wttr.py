@@ -11,7 +11,7 @@ You can install wttrpy package like that:
 
 Now you can test it out:
 
-.. code-block:: py
+.. code-block:: bash
 
     $ python
     >>> import wttrpy
