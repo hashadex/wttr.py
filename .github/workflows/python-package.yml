@@ -37,3 +37,11 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+    - name: Test CLI tool
+      run: |
+        python -m wttrpy
+        python -m wttrpy -h
+        python -m wttrpy --help
+        python -m wttrpy -w Amsterdam
+        python -m wttrpy -l fr
+        python -m wttrpy -w Amsterdam -l fr
