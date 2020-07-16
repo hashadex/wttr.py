@@ -5,7 +5,7 @@ with open('README.md', 'r') as file:
 
 setuptools.setup(
     name="wttrpy",
-    version="1.0.1",
+    version="1.0.2",
     author="Denisov Artem",
     author_email="hashadev@yandex.ru",
     description="A little thing on Python that shows you forecast using wttr.in",
@@ -14,7 +14,10 @@ setuptools.setup(
     url="https://github.com/hasha2982/wttr.py/",
     packages=setuptools.find_packages(),
     classifiers=[
-        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.5",
+        "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
