@@ -5,7 +5,7 @@ with open('README.md', 'r') as file:
 
 setuptools.setup(
     name="wttrpy",
-    version="1.0.2",
+    version="1.0.3",
     author="Denisov Artem",
     author_email="hashadev@yandex.ru",
     description="A little thing on Python that shows you forecast using wttr.in",
